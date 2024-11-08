@@ -83,5 +83,3 @@ p <- p +
 print(p)
 
 
-#save output
-ggsave("Outputs/05-Delmelle-Points.png", width = 15, height = 11)
